@@ -23,9 +23,7 @@
   - 右クリックがされるとプログラムは終了する．
   
 - 実行結果
-
-  - GIFによる実行結果
-    - ![GIF](https://github.com/acaptakiyudin04/image_processing2/blob/master/gif2.gif)
+  - ![GIF](https://github.com/acaptakiyudin04/image_processing2/blob/master/gif2.gif)
  
 - 参考文献
   - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
